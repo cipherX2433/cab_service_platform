@@ -7,6 +7,9 @@ The new cab service platform offers several key features:
 
 All these functions are conveniently accessible through Claude Desktop.
 
+- Output
+  ![Output](image.png)
+
 **Prerequisites:**
 - Get a Google Maps API key by following the instructions [here](https://developers.google.com/maps/documentation/javascript/get-api-key#create-api-keys)
 - Have nodejs installled in your local computer
